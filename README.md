@@ -15,7 +15,6 @@ Projeto desenvolvido para praticar React, componentização e manipulação de f
 
 ## Como executar
 
-```bash
 npm install
 npm run dev
 
